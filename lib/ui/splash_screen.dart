@@ -1,6 +1,5 @@
 import 'dart:async';
 
-import 'package:clone_ui_dana/page_beranda.dart';
 import 'package:clone_ui_dana/ui/page_navbottombar.dart';
 import 'package:flutter/material.dart';
 
